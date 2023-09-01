@@ -102,3 +102,4 @@ if symbols == "Four":
     print(f"Your lock is: {random.randint(1, 6):d}{random.randint(1, 6):d}{random.randint(1, 6):d}{random.randint(1, 6):d}")
 if symbols != "Three" and symbols != "Four":
     print("Please select the number of symbols in the lock again.")
+#  this is a test

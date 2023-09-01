@@ -94,6 +94,8 @@ elif year % 100 == 0 and year % 400 == 0:
 else:
     print("The year is not a leap year.")"""
 #this is just a test
+"""Module 2"""
+"""Exersice 6
 import random
 symbols = str(input("Please write the number of symbols in the lock. Three or Four"))
 if symbols == "Three":
@@ -101,5 +103,5 @@ if symbols == "Three":
 if symbols == "Four":
     print(f"Your lock is: {random.randint(1, 6):d}{random.randint(1, 6):d}{random.randint(1, 6):d}{random.randint(1, 6):d}")
 if symbols != "Three" and symbols != "Four":
-    print("Please select the number of symbols in the lock again.")
+    print("Please select the number of symbols in the lock again.")"""
 #  this is a test
